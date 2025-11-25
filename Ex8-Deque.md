@@ -17,8 +17,8 @@ To write a C function to count the number of elements present in the deque.
 ```
 /*
 Program to count the number of elements present in the deque
-Developed by: SHANMUGAKARTHIK G
-RegisterNumber: 212223220105 
+Developed by: Ranjan K
+RegisterNumber: 212222230116
 */
 
 /*#include <stdio.h>
